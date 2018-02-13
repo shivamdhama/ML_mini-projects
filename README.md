@@ -1,1 +1,1 @@
-# Machine Learning problems:
+# Machine Learning problems: Mini Projects
