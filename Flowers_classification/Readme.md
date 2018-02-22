@@ -7,5 +7,5 @@ Photos are not reduced to a single size, they have different proportions!
 Technology used:
 Language: Python(Keras)
 Algo: CNNs
-accuracy 81%
+accuracy 81%.
 
