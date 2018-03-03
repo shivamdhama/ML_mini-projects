@@ -4,4 +4,4 @@ It is a binary (2 class) classification problem. The number of observations for 
 
 1.Sonar returns at different angles
 2
-3..Class (M for mine and R for rock)
+3Class (M for mine and R for rock)
