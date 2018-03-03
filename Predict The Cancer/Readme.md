@@ -29,10 +29,17 @@ In this problem i have to predict whether the Breast Cancer is benign or maligna
 I have used Random Forest algorithm in this task and got the accuracy arround 95% .
 
 But after the tuinig the model parameters i got accuracy arround 97.90 %  which is pretty good.
+
 Technology used:
+
 Python with Sklearn
+
 Algorithm: Random Forest
-Visualization by Pandas 
-acuuracy: 97.90%
+
+Visualization by Pandas
+
+Acuuracy: 97.90%
+
 Data source: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
 My kernal: https://www.kaggle.com/dhamashivam/breast-cancer-classification-by-random-forest
