@@ -4,3 +4,12 @@ The objective of the dataset is to diagnostically predict whether or not a patie
 certain diagnostic measurements included in the dataset. Several constraints were placed on the selection 
 of these instances from a larger database. In particular, all patients here are females at least 21 years old 
 of Pima Indian heritage.
+
+
+The datasets consists of several medical predictor variables and one target variable, Outcome. 
+Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+
+IN this problem i have used Random forest to predict the Diabetes.
+I have used Python and got the accuracy arround 83.11%
+The dataset is very small only 700 rows are available.
+
