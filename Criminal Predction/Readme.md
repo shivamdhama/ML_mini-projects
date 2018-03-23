@@ -4,5 +4,5 @@ Technology used:
 Language: Python(Keras)
 Algorithm: Random Forest
 VIsualization: Pandas, Matplotlib
-Accuracy: 95.468%
+Accuracy: 95.468%.
 Rank: 86/9785(Hackerearth!)
