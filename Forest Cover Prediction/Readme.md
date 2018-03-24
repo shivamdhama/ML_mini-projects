@@ -24,6 +24,6 @@ Visualization: Pandas
 
 Algorithm: Random Forest Classifier
 
-Accuracy: 85.89%
+Accuracy: 85.89%.
 
 
