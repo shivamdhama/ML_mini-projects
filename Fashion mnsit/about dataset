@@ -34,6 +34,7 @@ Each training and test example is assigned to one of the following labels:
 3 Dress
 4 Coat
 5 Sandal
+
 6 Shirt
 7 Sneaker
 8 Bag
