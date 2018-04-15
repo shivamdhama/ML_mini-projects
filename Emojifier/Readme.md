@@ -3,4 +3,4 @@ and finds the most appropriate emoji to be used with this sentence (⚾️).
 Technology used:
 Language: Python(Keras)
 Algorithim: RNN(LSTM)
-Accuracy: 86.%.
+Accuracy: 86.%..
